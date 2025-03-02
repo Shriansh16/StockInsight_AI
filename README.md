@@ -1,4 +1,4 @@
-# STOCKINSIGHT_AI
+# StockInsight_AI
 
 ## Project Overview
 The project is a financial analysis and reporting tool that uses autonomous AI agents to:
