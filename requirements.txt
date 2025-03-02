@@ -1,0 +1,10 @@
+autogen
+streamlit
+python-dotenv
+numpy
+pandas
+matplotlib
+yfinance
+requests
+beautifulsoup4
+lxml
